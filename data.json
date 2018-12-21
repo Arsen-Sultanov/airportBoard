@@ -1,0 +1,32 @@
+{
+    "1" : {
+        "flightNumber" : "HZ 3633",
+        "direction" : "Оха",
+        "time" : "20:20",
+        "status" : "Вылетел"
+    },
+    "2" : {
+        "flightNumber" : "R3 449",
+        "direction" : "Новосибирск",
+        "time" : "20:20",
+        "status" : "Задержан"
+    },
+    "3" : {
+        "flightNumber" : "GH 117",
+        "direction" : "Курильск",
+        "time" : "20:20",
+        "status" : "Вылетел"
+    },
+    "4" : {
+        "flightNumber" : "S7 461",
+        "direction" : "Хабаровск",
+        "time" : "20:20",
+        "status" : "Прибыл"
+    },
+    "5" : {
+        "flightNumber" : "SU 117",
+        "direction" : "ЧИТА",
+        "time" : "20:20",
+        "status" : "Прибыл"
+    }
+}
