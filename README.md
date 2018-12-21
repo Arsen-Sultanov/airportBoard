@@ -1,8 +1,8 @@
 # Табло аэропорта #
->npm i --dev
+>$ npm i --dev
 <p>
 
->cd airportBoard
+>$ cd airportBoard
 <p>
 
->serve
+>$ serve
