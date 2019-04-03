@@ -50,10 +50,12 @@ li, dd, blockquote {
 .header-filer {
     display: flex;
     outline: none;
-    align-items: center;
-    justify-content: space-around;
+    align-items: baseline;
+    justify-content: center;
+    justify-content: space-between;
     width: 100%;
     margin: 1% 0% 1% 0%;
+    flex-wrap: wrap;
 }
 .header-filer input{
 	outline: none;
@@ -77,4 +79,10 @@ table{
 }
  td {
 	 border-bottom: #000000 solid 1px;
+ }
+
+ @media (max-width: 420px){
+	.header-filer input{
+		width: 50%;
+	}
  }

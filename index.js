@@ -44,6 +44,7 @@
                 );
                 return;
             }
+            renderTable(createTable(getDataStorage()), airportBoard);
             return;
         };
 
