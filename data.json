@@ -28,5 +28,11 @@
         "direction" : "ЧИТА",
         "time" : "20:20",
         "status" : "Прибыл"
+    },
+    "6" : {
+        "flightNumber" : "SU 117",
+        "direction" : "ЧИТА",
+        "time" : "20:20",
+        "status" : "Прибыл"
     }
 }
