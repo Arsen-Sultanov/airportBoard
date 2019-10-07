@@ -1,13 +1,13 @@
 {
   "name": "airportboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "airport board ",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "npx serve"
   },
   "author": "Sultanov Arsen",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "serve": "^10.1.1"
   }

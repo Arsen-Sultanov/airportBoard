@@ -77,12 +77,13 @@ table{
     border-spacing: 0px 30px;
 
 }
- td {
-	 border-bottom: #000000 solid 1px;
- }
+td{
+	border-bottom: #000000 solid 1px;
+	width: 25%;
+}
 
- @media (max-width: 420px){
+@media (max-width: 420px){
 	.header-filer input{
 		width: 50%;
 	}
- }
+}

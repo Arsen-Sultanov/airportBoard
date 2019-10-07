@@ -1,12 +1,5 @@
 # Табло аэропорта #
->$ npm i --dev
-<p>
-
->$ cd airportBoard
-<p>
-
->$ serve
-<p>
-
+Для запуска выполните команду: 
+>$ npm start
 # Посмотреть: #
-[https://arsen-sultanov.github.io/airportBoard/](https://arsen-sultanov.github.io/airportBoard/)
+[airoport-board](https://arsen-sultanov.github.io/airportBoard/)
